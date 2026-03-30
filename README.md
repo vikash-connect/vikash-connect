@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vikashkr915" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vikashkr915" height="30" width="40" /></a>
-<a href="https://instagram.com/vikashh__06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vikashh__06" height="30" width="40" /></a>
+<!-- <a href="https://instagram.com/vikashh__06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vikashh__06" height="30" width="40" /></a> -->
 <a href="https://www.hackerrank.com/vikash_connect05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vikash_connect05" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/vikash_05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="vikash_05" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/na" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="na" height="30" width="40" /></a>
