@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![logo](https://github.com/vikash-connect/vikash-connect/blob/main/vikash.connect05%40gmail.com.png)
+![logo]([https://github.com/vikash-connect/vikash-connect/blob/main/vikash.connect05%40gmail.com.png](https://github.com/vikash-connect/vikash-connect/blob/main/vikash.connect05%40gmail.com%20(1).png))
 <h1 align="center">Hi 👋, I'm Vikash Kumar</h1>
 <h3 align="center">A passionate Software Developer from India.</h3>
 
