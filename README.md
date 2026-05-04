@@ -11,13 +11,13 @@
 ---
 
 ### 💫 About Me
-I'm a **1st Year B.Tech CS Student** at **BMS College of Engineering, Bangalore**. I'm passionate about building modern web applications and exploring new technologies. Currently, I'm diving deep into **React 19**, **Tailwind CSS**, and **Framer Motion**.
+I'm a **1st Year B.Tech CS Student** at **PW Institute Of Innovation, Bangalore**. I'm passionate about building modern web applications and exploring new technologies. 
 
 - 🔭 I’m currently working on **[CampusKart](https://github.com/vikash-connect/CampusKart)**
 - 🌱 I’m currently learning **Advanced React & UI/UX Design**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **JavaScript, React, or C**
-- 📫 How to reach me: **vikash@example.com**
+- 📫 How to reach me: **vikash.connect05@gmail.com**
 
 ---
 
