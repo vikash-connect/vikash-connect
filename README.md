@@ -1,50 +1,100 @@
-## Hi there 👋
+# Hey there! 👋 I'm Vikash
 
-<!--
-**vikash-connect/vikash-connect** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://raw.githubusercontent.com/vikash-connect/vikash-connect/main/vikash.connect05%40gmail.com%20(1).png" alt="Vikash Connect Banner" width="100%" />
+</div>
 
-Here are some ideas to get you started:
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A970FF&center=true&vCenter=true&width=435&lines=B.Tech+CS+Student;Full+Stack+Developer;Creative+Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![logo](https://github.com/vikash-connect/vikash-connect/blob/main/vikash.connect05%40gmail.com%20(1).png)
-<h1 align="center">Hi 👋, I'm Vikash Kumar</h1>
-<h3 align="center">A passionate Software Developer from India.</h3>
+---
 
-<img align="right" alt="coding" width="400" src="https://img.freepik.com/free-photo/person-playing-3d-video-games-device_23-2151005751.jpg?semt=ais_incoming&w=740&q=80">
+### 💫 About Me
+I'm a **1st Year B.Tech CS Student** at **BMS College of Engineering, Bangalore**. I'm passionate about building modern web applications and exploring new technologies. Currently, I'm diving deep into **React 19**, **Tailwind CSS**, and **Framer Motion**.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vikash-connect&label=Profile%20views&color=0e75b6&style=flat" alt="vikash-connect" /> </p>
+- 🔭 I’m currently working on **[CampusKart](https://github.com/vikash-connect/CampusKart)**
+- 🌱 I’m currently learning **Advanced React & UI/UX Design**
+- 👯 I’m looking to collaborate on **Open Source Projects**
+- 💬 Ask me about **JavaScript, React, or C**
+- 📫 How to reach me: **vikash@example.com**
 
-- 🌱 I’m currently learning **Java, Web Dev, Problem solving etc..**
+---
 
-- 💬 Ask me about **something I don't know, so that I get a topic for new research.**
+### 🛠️ Tech Stack & Tools
 
-- 📫 How to reach me **vikash.connect05@gmail.com**
+<div align="center">
+  
+  #### 🌐 Frontend
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,framer,html,css,js,vite" alt="Frontend" />
+  
+  #### ⚙️ Backend & Database
+  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,mysql" alt="Backend" />
+  
+  #### 🔧 Languages & Tools
+  <img src="https://skillicons.dev/icons?i=c,py,git,github,vscode,figma,postman" alt="Tools" />
 
-- ⚡ Fun fact **Python isn't named after a snake 🐍 💻**
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/vikashkr915" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vikashkr915" height="30" width="40" /></a>
-<!-- <a href="https://instagram.com/vikashh__06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vikashh__06" height="30" width="40" /></a> -->
-<a href="https://www.hackerrank.com/vikash_connect05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vikash_connect05" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/vikash_05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="vikash_05" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/na" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="na" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/na" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="na" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+### 📊 GitHub Analytics
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vikash-connect&show_icons=true&locale=en&layout=compact" alt="vikash-connect" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vikash-connect&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Vikash's Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vikash-connect&theme=tokyonight&hide_border=true&background=0D1117" alt="Vikash's Streak" />
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vikash-connect&show_icons=true&locale=en" alt="vikash-connect" /></p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vikash-connect&theme=tokyonight&no-bg=true&no-frame=true&column=4" alt="Vikash's Trophies" />
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vikash-connect&" alt="vikash-connect" /></p>
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vikash-connect&theme=tokyo-night&area=true&hide_border=true&bg_color=0D1117" width="100%" alt="Activity Graph" />
+</div>
+
+---
+
+### 🎮 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/vikash-connect/vikash-connect/output/github-contribution-grid-snake.svg" alt="Snake" />
+</div>
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Stack | Link |
+| :--- | :--- | :--- | :--- |
+| **Election Assistant** | A modern assistant for Indian Elections. | React, Tailwind, Vite | [View](https://github.com/vikash-connect/election-assistant-2026) |
+| **CampusKart** | Peer-to-peer marketplace for college students. | Next.js, Firebase | [View](https://github.com/vikash-connect/CampusKart) |
+| **Pattern Printing** | Advanced C patterns for logical building. | C | [View](https://github.com/vikash-connect/Pattern-Printing) |
+
+---
+
+### 🤝 Connect With Me
+
+<div align="center">
+  <a href="https://linkedin.com/in/vikash-connect" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:your-email@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://instagram.com/vikash_connect" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+</div>
