@@ -51,9 +51,9 @@ I'm a **1st Year B.Tech CS Student** at **PW Institute Of Innovation, Bangalore*
 
 <br/>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vikash-connect&theme=tokyo-night&area=true&hide_border=true&bg_color=0D1117" width="100%" alt="Activity Graph" />
-</div>
+</div> -->
 
 ---
 
