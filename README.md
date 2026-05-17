@@ -1,5 +1,4 @@
 # Hey there!! 👋 I'm Vikash
-
 <div align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmtwaHcwdXRwMGE1bG1zZ3YzZ3lrYndubTM3NDY3OWxydzZmODF2aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NHvv0Bo3oGq1eTBDd1/giphy.gif" width="100%" />
 </div>
