@@ -4,6 +4,7 @@
 </div>
 
 
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A970FF&center=true&vCenter=true&width=435&lines=B.Tech+CS+Student;Full+Stack+Developer;Creative+Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
 </div> 
